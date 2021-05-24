@@ -1,0 +1,77 @@
+测试模式
+从model/image_model载入模型
+Testdata accuracy is 99.9299% 
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/9_3_3_9_12_9.9482.png	degree of clearity:	714.9674300904633	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_2_8_6_4_13.8285.png	degree of clearity:	713.2649346754454	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_3_7_8_1_5.5477.png	degree of clearity:	707.0126463999258	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_4_9_6_2_2.7934.png	degree of clearity:	723.4472442871648	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_3_4_2_1_12.2733.png	degree of clearity:	724.4839882958922	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/15_5_5_0_5_15.1402.png	degree of clearity:	711.2176629889793	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/15_6_5_0_5_15.5861.png	15 => 18
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/18_4_5_0_18_19.8877.png	degree of clearity:	713.9105242104187	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/15_4_9_8_2_15.9578.png	degree of clearity:	774.1155405006082	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_4_6_3_3_7.6144.png	degree of clearity:	709.4320936326317	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/9_6_7_6_9_16.2045.png	degree of clearity:	731.4589869272032	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/9_4_6_0_9_11.8662.png	degree of clearity:	765.5260797749804	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/16_6_7_6_9_16.2045.png	degree of clearity:	731.6126713620891	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_6_3_5_6_6.1092.png	degree of clearity:	702.606912768288	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_6_5_9_6_4.3168.png	degree of clearity:	704.412391118494	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_5_5_6_8_8.7318.png	8 => 18
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/5_6_5_9_6_4.3168.png	degree of clearity:	734.8414830607776	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/0_3_5_0_4_9.9497.png	degree of clearity:	783.2085154876524	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/12_5_3_3_5_12.5107.png	degree of clearity:	704.5609028736769	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/9_6_7_1_1_9.2269.png	degree of clearity:	797.9623840479553	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_4_6_3_3_7.6144.png	degree of clearity:	755.4307594549742	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/11_4_6_4_6_11.2647.png	degree of clearity:	705.8750515613073	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/10_4_4_7_4_10.6526.png	degree of clearity:	715.6465018441403	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_2_7_6_9_13.7315.png	degree of clearity:	722.7676284060811	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/16_4_5_8_0_16.3890.png	degree of clearity:	704.784459170581	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_3_1_5_0_6.4442.png	degree of clearity:	703.8822262396694	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/19_4_5_0_18_19.8877.png	degree of clearity:	795.4646076287353	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_6_6_5_3_9.5108.png	degree of clearity:	710.7921557358786	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/5_4_6_5_8_14.8337.png	degree of clearity:	729.2073047619585	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_2_6_8_5_6.586.png	degree of clearity:	724.3571103068948	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/4_4_5_4_7_18.8786.png	degree of clearity:	728.9610255670896	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/0_2_2_0_8_3.1994.png	degree of clearity:	763.9513869034967	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/4_4_6_4_6_11.2647.png	degree of clearity:	719.3732764733819	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/7_4_6_7_9_9.4511.png	degree of clearity:	798.7952128785417	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_4_6_0_9_11.8662.png	degree of clearity:	736.1773432177482	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/5_6_6_5_3_9.5108.png	degree of clearity:	716.227186107262	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/0_4_6_0_9_11.8662.png	degree of clearity:	711.0459913393091	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/9_4_9_14_9_9.6912.png	degree of clearity:	728.3273861137077	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/16_6_6_1_16_19.8808.png	degree of clearity:	715.8206854023989	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_1_8_8_15_9.5637.png	degree of clearity:	704.8073508212203	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/0_4_1_0_8_6.7974.png	degree of clearity:	750.4702176228518	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_2_7_6_9_13.7315.png	degree of clearity:	775.2263594707415	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_3_6_8_7_10.1125.png	degree of clearity:	712.861297571196	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_4_6_1_7_14.6503.png	degree of clearity:	745.9123798652203	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_6_2_1_9_6.9962.png	degree of clearity:	762.9752035831004	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_6_6_0_0_5.5887.png	degree of clearity:	713.2554126559025	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/15_3_0_0_7_15.4057.png	15 => 13
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_6_4_9_3_11.5317.png	degree of clearity:	789.7694233401314	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/13_4_6_7_5_13.4029.png	degree of clearity:	741.4605297533187	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_6_6_3_3_13.1018.png	degree of clearity:	773.7567248727919	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_3_7_8_1_5.5477.png	degree of clearity:	712.0543975373889	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/3_3_5_0_4_9.9497.png	degree of clearity:	730.2916347804949	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/0_3_7_3_0_4.9906.png	degree of clearity:	785.2838555009081	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_3_4_2_1_12.2733.png	degree of clearity:	724.9078886238807	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/4_4_4_7_4_10.6526.png	degree of clearity:	777.350652523634	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_2_6_8_5_6.586.png	degree of clearity:	758.1309360715726	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_3_3_8_4_9.5409.png	degree of clearity:	723.6714230818768	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/5_4_6_7_5_13.4029.png	degree of clearity:	720.7238053541794	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/5_6_5_0_5_15.5861.png	degree of clearity:	726.9062967044425	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/12_4_5_6_8_12.7975.png	degree of clearity:	703.3033649730986	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/7_1_4_7_9_13.6506.png	degree of clearity:	794.8969863162955	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/16_4_5_2_7_16.17.png	degree of clearity:	726.9802260901664	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_2_4_3_8_18.1133.png	degree of clearity:	727.7701627296215	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_5_6_5_2_5.2418.png	degree of clearity:	720.0975049145298	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/8_6_8_9_3_3.6560.png	degree of clearity:	704.1787658885256	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_2_7_3_17_9.9048.png	degree of clearity:	750.7243676665647	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/7_4_4_7_4_10.6526.png	degree of clearity:	755.686679234097	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/2_3_5_9_2_3.9367.png	degree of clearity:	722.9960570979454	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/6_4_6_4_6_11.2647.png	degree of clearity:	728.9355251550354	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/14_6_8_9_7_14.2641.png	degree of clearity:	700.3666887099334	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/4_4_6_7_9_9.4511.png	degree of clearity:	775.5133582392175	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/7_4_6_7_0_18.2458.png	degree of clearity:	744.9903341003621	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/18_5_3_7_4_18.9950.png	degree of clearity:	722.2488189234354	Recommand retake the picture!
+/home/wangzj/WORK/shuibiao/data_shuibiao/shuibiao_labelEdit/relabel_test_easy/11_4_6_0_9_11.8662.png	degree of clearity:	724.9932491135878	Recommand retake the picture!

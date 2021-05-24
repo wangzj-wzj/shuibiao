@@ -1,0 +1,62 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>水表数值检测</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename= 'style.css') }}">
+    </head>
+    <style type="text/css">
+    .divForm{
+        position: absolute;/*绝对定位*/
+        width: 800px;
+        height: 200px;
+        text-align: center;/*(让div中的内容居中)*/
+        top: 50%;
+        left: 50%;
+        margin-top: -300px;
+        margin-left: -400px;
+    }
+    </style>
+
+    <body>
+    <div class="divForm">
+        <h1>水表数据检测</h1>
+        <h2>全部图像检测正确率:</h2>
+        <font color = 'red'>{{ acc|safe }}</font>
+        <h2>检测表:</h2>
+
+    <table border="1" class="dataframe shuibiao">
+  <thead>
+    <tr style="text-align: right;">
+      <th>图片</th>
+      <th>检测数值</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src= "static/images/6_2_8_7_17.7815.png" /></td>
+      <td>6 2 8 7 7.5</td>
+    </tr>
+    <tr>
+      <td><img src= "static/images/2_1_2_5_12.4862.png" /></td>
+      <td>2 1 2 5 2.5</td>
+    </tr>
+    <tr>
+      <td><img src= "static/images/6_8_7_2_9.png" /></td>
+      <td>6 8 7 2 9</td>
+    </tr>
+    <tr>
+      <td><img src= "static/images/6_7_5_2_9.png" /></td>
+      <td>6 7 5 2 9</td>
+    </tr>
+    <tr>
+      <td><img src= "static/images/9_6_2_2_0.png" /></td>
+      <td>9 6 2 2 0</td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+    </body>
+    </html>
+    

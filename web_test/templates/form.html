@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>水表数值检测</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename= 'style.css') }}">
+</head>
+<style type="text/css">
+    .divForm{
+        position: absolute;/*绝对定位*/
+        width: 500px;
+        height: 200px;
+        text-align: center;/*(让div中的内容居中)*/
+        top: 50%;
+        left: 50%;
+        margin-top: -300px;
+        margin-left: -300px;
+    }
+</style>
+<body>
+<div class="divForm">
+	<h1>摄像直读水表数据识别功能演示</h1></br>
+<form action="/img_detect" method="post">
+    	<label>请输入包含水表数值图像的文件夹地址：</label></br>
+    	<input type="text" style="width:500px; height:30px;" name="img_path" placeholder="请输入文件夹路径"></br>
+    	<input type="submit" value="开始检测"></br>
+</form>
+</div>     
+</body>
+</html>
